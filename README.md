@@ -20,4 +20,4 @@ Aquí, dependiendo de la hora del día, se elige el saludo apropiado.
 
 Recuerda que el uso excesivo de operadores ternarios puede hacer que tu código sea difícil de entender, así que úsalos con moderación y asegúrate de que tu código sea legible para otros desarrolladores.
 
-Si quieres practicar realiza los ejercicios, los enunciados estan en el archivo ejercicios.js
+Si quieres practicar realiza los ejercicios, los enunciados estan en el archivo ejercicios.js también estan las soluciones de los ejercicios en el archivo soluciones.js.
